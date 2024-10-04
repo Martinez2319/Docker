@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: martinez2109/laal:lates
+          tags: martinez2109/laal:latest
