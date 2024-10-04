@@ -21,4 +21,4 @@ jobs:
  uses: docker/build-push-action@v6
  with:
  push: true
-tags: ${{ vars.DOCKERHUB_USERNAME }}/clockbox:lates
+tags: martinez2109/laal:lates
